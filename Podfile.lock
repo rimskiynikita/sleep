@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.4.0)
+  - SwiftyJSON (3.1.4)
+  - UICircularProgressRing (1.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - SwiftyJSON
+  - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  UICircularProgressRing: cbeed8321bd277943b3cb5412a1ddd50dc40c755
+
+PODFILE CHECKSUM: f3302da815167372e1c636ef73b13c61618a260b
+
+COCOAPODS: 1.0.1
